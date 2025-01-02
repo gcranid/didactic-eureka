@@ -1,0 +1,9 @@
+/**
+ *
+ * src/assets/css/index.css
+ *
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
